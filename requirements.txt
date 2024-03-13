@@ -1,8 +1,0 @@
-opencv-contrib-python
-pathlib
-imutils
-natsort
-matplotlib
-pandas
-scipy
-scikit-learn
